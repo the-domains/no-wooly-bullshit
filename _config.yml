@@ -1,0 +1,28 @@
+name: No Wooly Bullshit
+favicon: null
+layout_spectrum: 0.6896734400652349
+typography_spectrum: 0.9094529384747148
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.37647726223804057
+  lightness: 0.9113316293805838
+  saturation: 0.40467946976423264
+  rhythmicContrast: 0.6012841558549553
+purpose: []
